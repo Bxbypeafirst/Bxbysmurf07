@@ -55,8 +55,7 @@
     <ul>
       <li><strong>Pharmacy:</strong> ANC10</li>
       <li><strong>Middle School:</strong> ST.BUU SMTE</li>
-      <li><strong>High School:</strong> English - Japanese - Acting</li>
-      <li><strong>Program:</strong> SMIte02 - RVB</li>
+      <li><strong>high school:</strong> SMIte02 - RVB</li>
       <li><strong>College:</strong> BSTC - Mct8</li>
     </ul>
 
