@@ -83,6 +83,7 @@
           <li>Faculty of Engineering - Mechatronics and Instrumentation Control Engineering  
               สถาบันเทคโนโลยีพระจอมเกล้าคุณทหารลาดกระบัง</li>
           <li>Faculty of school of engineer and innovation - mechatronics and robotics engineering
+              มหาวิทยาลัยเทคโนโลยีราบมงคลตะวันออก(มหาวิทยาลัยเกษตรศาสตร์ วิทยาเขตบางพระ)
         </ul>
       </li>
 
